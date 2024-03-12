@@ -104,3 +104,19 @@ h2{
     height: 400px;
     width: 400px;
 }
+
+.centered-bg{
+    border: 4px dotted purple;
+    background-position: center;
+    background-size: cover;
+}
+
+.without-padding,
+.padding{
+    background-color: #111;
+    color:#fff ;
+}
+.padding{
+    background-color: #333333;
+    padding: 20px;
+}

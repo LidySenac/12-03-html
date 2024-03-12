@@ -42,3 +42,12 @@ h2{
     color: crimson;
 }
 
+.hex{
+    background: green;
+    color: white;
+}
+
+.hex-2{
+    background:#55a398;
+    color: white;
+}
